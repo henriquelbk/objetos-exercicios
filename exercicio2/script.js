@@ -13,3 +13,14 @@ const filme = {
 }
 
 // respostas aqui ⬇️
+console.log(filme.elenco[0])
+
+// queria fazer com length -1, mas nao deu certo
+console.log(filme.elenco[3]) 
+
+console.log(filme.transmissoesHoje)
+
+// nao sei se esta certo
+console.log(filme.transmissoesHoje[1])
+
+
