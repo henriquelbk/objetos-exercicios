@@ -21,6 +21,6 @@ console.log(filme.elenco[3])
 console.log(filme.transmissoesHoje)
 
 // nao sei se esta certo
-console.log(filme.transmissoesHoje[1])
+console.log(filme.transmissoesHoje[1].horario)
 
 
